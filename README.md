@@ -2,6 +2,35 @@
 
 <h1>Bem Vindo 👋 </h1>
 
+<div>
+ <details>
+  <summary>🌊 Português</summary>
+
+  ### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
+
+  ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
+
+  - 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
+  - 📑 Meus projetos 
+  - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
+  - ⚽ Mais um pouco sobre mim: Eu gosto de jogar futebol!
+   </details>
+ 
+  <details>
+    <summary>🗽 English</summary>
+
+  ### Hey, how you're doing? I'm Matheus Marcolino and welcome to my github! ✌️ 
+
+  ## I´m a computer science student and software developer!
+
+  - 🎓 I'm currently on the second period of my Computer Science degree at PUC-Minas.
+  - 📑 My current projects 
+  - 💹 2021 goals: Contribute on open source projects.
+  - ⚽ More about me: I like to play football!
+   
+  </details>
+</div>
+
 <img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="100%" align="right" padding="10px"></h2>
 
 <!--

@@ -54,11 +54,7 @@
 
 
 <center>
-<tr>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulhado0&show_icons=true&locale=en&theme=radical" alt="kulhado0" /></p>
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" /> 
-    </tr>
-     <tr>
+    <tr>
    <div align="center">
   <a href="https://github.com/vcolen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulhado0&show_icons=true&locale=en&theme=radical"/>

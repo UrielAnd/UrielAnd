@@ -8,7 +8,7 @@
 
   ### Ei, tudo bem? Meu nome é Uriel Andrade e seja bem-vindo ao meu github! ✌️ 
 
-  ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
+  ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!!
 
   - 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
   - 📑 Meus projetos 

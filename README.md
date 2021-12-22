@@ -6,7 +6,7 @@
  <details>
   <summary>🌊 Português</summary>
 
-  ### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
+  ### Ei, tudo bem? Meu nome é Uriel Andrade e seja bem-vindo ao meu github! ✌️ 
 
   ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
 
@@ -19,7 +19,7 @@
   <details>
     <summary>🗽 English</summary>
 
-  ### Hey, how you're doing? I'm Matheus Marcolino and welcome to my github! ✌️ 
+  ### Hey, how you're doing? I'm Uriel Andrade and welcome to my github! ✌️ 
 
   ## I´m a computer science student and software developer!
 

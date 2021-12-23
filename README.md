@@ -80,7 +80,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-inactive?logo=MySQL&logoColor=white&style=flat)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
 
-<img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="100%" align="right" padding="10px"></h2>
 
 ## GitHub Stats.
 <div>
@@ -91,5 +90,5 @@
   ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)
   
 
- 
+ <center><img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="100%" align="right" padding="10px"></h2></center>
 

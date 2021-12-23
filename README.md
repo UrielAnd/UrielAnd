@@ -94,5 +94,7 @@
 </center> 
 
   ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img src="https://i.imgur.com/2x2Cdw6.gif" width="100%" height="50%" align="right" padding="20px"></h2>
   
 

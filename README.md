@@ -31,7 +31,7 @@
   </details>
 </div>
 
-<img src="https://i.imgur.com/xfOEqCJ.gif" width="400px" height="100%" align="right" padding="10px"></h2>
+<img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="100%" align="right" padding="10px"></h2>
 
 <!--
 **UrielAnd/UrielAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -89,6 +89,4 @@
 
   ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)
   
-
- <center><img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="100%" align="center" padding="10px"></h2></center>
 

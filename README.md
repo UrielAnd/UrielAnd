@@ -31,7 +31,7 @@
   </details>
 </div>
 
-<img src="https://dribbble.com/shots/6749707-Programar-1gif4day/attachments/6749707-Programar-1gif4day?mode=media" width="400px" height="100%" align="right" padding="10px"></h2>
+<img src="https://imgur.com/t/tecnology/rKtyRTD" width="400px" height="100%" align="right" padding="10px"></h2>
 
 <!--
 **UrielAnd/UrielAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

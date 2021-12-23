@@ -82,7 +82,10 @@
 
 
 ## GitHub Stats.
-
+<div>
+  <a href="https://github.com/UrielAnd?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=UrielAnd&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github   stats" /></a>
+  <a href="https://github.com/UrielAnd?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielAnd&layout=compact&theme=dracula&langs_count=7" /></a>
+</div>
 
   ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)
   

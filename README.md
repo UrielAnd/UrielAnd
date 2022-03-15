@@ -36,8 +36,8 @@
 <!--
 **UrielAnd/UrielAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/)&nbsp; 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiova///nini/)&nbsp; 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vin///yhg)&nbsp;
 ![Email](https://img.shields.io/badge/EMAIL-urielandradee@outlook.com-lightgrey?logo=Minutemailer&logoColor=white&style=flat)  
 
 

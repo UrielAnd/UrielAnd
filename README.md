@@ -4,29 +4,29 @@
 
 <div>
  <details>
-  <summary>🌊 Português</summary>
+  <summary>📌 Português</summary>
 
   ### Ei, tudo bem? Meu nome é Uriel Andrade e seja bem-vindo ao meu github! ✌️ 
 
-  ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!!
+Eu sou um aluno de Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais e desenvolvedor de softwares!! Gosto de aprender, e sou muito dedicado nos meus objetivos. Estou em busca de um ambiente onde as minhas competências possam ser utilizadas em sua totalidade, para que eu possa ganhar bastante experiência no mercado de trabalho.
 
-  - 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
-  - 📑 Meus projetos 
+  - 🏫 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
+  - 📃 Meus projetos 
   - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
-  - ⚽ Mais um pouco sobre mim: Eu gosto de jogar futebol!
+  - ⚽ Mais um pouco sobre mim: Eu gosto de jogar futebol e sair com os amigos!
    </details>
  
   <details>
-    <summary>🗽 English</summary>
+    <summary>📌 English</summary>
 
   ### Hey, how you're doing? I'm Uriel Andrade and welcome to my github! ✌️ 
 
-  ## I´m a computer science student and software developer!
+I´m a computer science student in Pontifícia Universidade Católica de Minas Gerais and software developer! I like to learn, and I am very dedicated to my goals. I'm in an environment where it can be used in its entirety and can get a lot of experience in the job market.
 
-  - 🎓 I'm currently on the second period of my Computer Science degree at PUC-Minas.
-  - 📑 My current projects 
+  - 🏫 I'm currently on the second period of my Computer Science degree at PUC-Minas.
+  - 📃 My current projects 
   - 💹 2021 goals: Contribute on open source projects.
-  - ⚽ More about me: I like to play football!
+  - ⚽ More about me: I like to play football and go out with friends!
    
   </details>
 </div>

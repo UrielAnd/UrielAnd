@@ -80,6 +80,17 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 ![MySQL](https://img.shields.io/badge/-MySQL-inactive?logo=MySQL&logoColor=white&style=flat)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
 
+## GitHub Stats.
+<div>
+<center>
+    <tr>
+      <div align="center">
+  <a href="https://github.com/UrielAnd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UrielAnd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielAnd&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>  
+    </tr>
+</center> 
 
 
   ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)

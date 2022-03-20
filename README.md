@@ -1,6 +1,6 @@
 
 
-<h1>Bem Vindo 👋 </h1>
+<h1>Seja Bem Vindo! 👋 </h1>
 
 <div>
  <details>

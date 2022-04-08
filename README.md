@@ -51,7 +51,6 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 - 📌 FACULDADE: Pontíficia Universidade Católica
 - 🎮 HOBBY: Video Game, Músicas, Futebol
 
-
 **Linguagens Aprendidas**
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat)&nbsp;
@@ -83,6 +82,9 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
 
 ## GitHub Stats.
+<div id="line" align="center">  
+  <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
+</div>
 <div>
 <center>
     <tr>

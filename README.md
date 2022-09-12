@@ -45,7 +45,7 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 
 **Sobre mim**:
 - 💻 Nome: Uriel do Carmo Andrade
-- 🗓 IDADE: 19 Anos
+- 🗓 IDADE: 20 Anos
 - 🇧🇷 Cidade: BH|MG
 - 📖 CURSO: Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica

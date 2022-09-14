@@ -99,7 +99,10 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
     </tr>
 </center> 
 
-<div>
+
+  ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div>
 &nbsp;
 <a href="#">
   <img align="right" src="https://komarev.com/ghpvc/?username=UrielAnd09&style=flat-square" height="20" />
@@ -107,8 +110,5 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
   <img align="right" src="https://img.icons8.com/ios-filled/344/glasses.png" height="20" width="20" />
 </div>
 
-
-  ![Snake animation](https://github.com/UrielAnd/UrielAnd/blob/output/github-contribution-grid-snake.svg)
- 
 
 

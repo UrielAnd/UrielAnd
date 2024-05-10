@@ -29,7 +29,7 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
   </details>
 </div>
 
-<img src="https://i.imgur.com/xwunkfb.gif" width="400px" height="300px" align="right" padding="20px"></h2>
+<img src="[https://i.imgur.com/xwunkfb.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp3b3c2dHpvcnFtODhiZ3A0bmhmcG9wZmpqbzlwYTVrZTU1aDlpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVZ1M8bVwpaF7MTYNk/giphy.gif)" width="400px" height="300px" align="right" padding="20px"></h2>
 
 <!--
 **UrielAnd/UrielAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

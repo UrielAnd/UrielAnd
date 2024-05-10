@@ -36,14 +36,14 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 ![Email](https://img.shields.io/badge/EMAIL-urielandradee@outlook.com-lightgrey?logo=Minutemailer&logoColor=white&style=flat) 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/uriel-andrade-214484205/)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/uriel_and__/)&nbsp; 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/Uriel_and__)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](<link>)&nbsp; 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](<link>)&nbsp;
  
 
 
 **Sobre mim**:
 - 💻 Nome: Uriel do Carmo Andrade
-- 🗓 IDADE: 20 Anos
+- 🗓 IDADE: 22 Anos
 - 🇧🇷 Cidade: BH|MG
 - 📖 CURSO: Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica

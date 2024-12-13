@@ -24,7 +24,7 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 
 <!--
 **UrielAnd/UrielAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Email](https://img.shields.io/badge/EMAIL-uriel_and__@outlook.com-lightgrey?logo=Minutemailer&logoColor=white&style=flat) 
+![Email](https://img.shields.io/badge/EMAIL-uriel__and___@outlook.com-lightgrey?logo=Minutemailer&logoColor=white&style=flat) 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/uriel-andrade-214484205/)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](<link>)&nbsp; 

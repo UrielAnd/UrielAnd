@@ -20,7 +20,7 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
   </details>
 </div>
 
-<img src="imgs/Yellow.gif" width="400px" height="250px" align="right" padding="20px"></h2>
+<img src="imgs/connecting.gif" width="400px" height="250px" align="right" padding="20px"></h2>
 
 <!--
 **UrielAnd/UrielAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -72,7 +72,7 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 
 ## GitHub Stats.
 <div id="line" align="center">  
-  <img src="[https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
+  <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/> 
 </div>
 
 

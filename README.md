@@ -72,7 +72,7 @@ I´m a computer science student in Pontifícia Universidade Católica de Minas G
 
 ## GitHub Stats.
 <div id="line" align="center">  
-  <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
+  <img src="[https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
 </div>
 
 
